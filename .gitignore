@@ -28,3 +28,6 @@ Thumbs.db
 
 # Ejecutables de pruebas unitarias
 /tests/test_monitor
+
+# Ejecutable de pruebas del modulo de utilidades
+/tests/test_utils
