@@ -1,0 +1,7 @@
+schema: "classroom50/repo-config/v1"
+classroom: "ps-uclv-2026-2027"
+assignment: "proyecto-integrador-ps-uclv-2026-2027"
+owner:
+  username: "Carlos-e45"
+  id: 230212450
+  accepted_at: "2026-11-26T04:08:19Z"
