@@ -1,0 +1,27 @@
+# Archivos objeto generados durante la compilacion
+*.o
+
+# Biblioteca estatica generada por el Makefile
+/libmonitor.a
+
+# Ejecutables generados por el Makefile
+/server
+/client
+
+# Archivos de depuracion y volcados de memoria
+*.core
+core
+core.*
+
+# Archivos temporales del editor
+*.swp
+*.swo
+*~
+
+# Configuracion local del entorno de desarrollo
+.vscode/
+.idea/
+
+# Archivos auxiliares del sistema operativo
+.DS_Store
+Thumbs.db
