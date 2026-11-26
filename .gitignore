@@ -31,3 +31,7 @@ Thumbs.db
 
 # Ejecutable de pruebas del modulo de utilidades
 /tests/test_utils
+
+# Archivos temporales generados por Python
+__pycache__/
+*.pyc
